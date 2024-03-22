@@ -7,7 +7,7 @@ html{
 }
 
 body{
-    background: rgb(223, 251, 255);
+    background: rgb(223, 255, 225);
     margin: 0%;
     z-index: 1;
     font-family: 'Work Sans', sans-serif;
@@ -17,7 +17,7 @@ body{
 
 
 #titleCour{
-    font-size: 65px; margin: 30px; color: #245280; text-align: center;
+    font-size: 65px; margin: 30px; color: #248035; text-align: center;
 }
 
 .txt{
@@ -48,7 +48,7 @@ body{
 
 /* From uiverse.io */
 #upload {
---color: #0b7fad;
+--color: #0bad1e;
 font-family: inherit;
 display: inline-block;
 width: 7em;
@@ -94,7 +94,7 @@ left: -30px;
 }
 
 #upload:active:before {
-background: #0c8ca3;
+background: #0ca319;
 transition: background 0s;
 }
 
@@ -177,7 +177,7 @@ transition: background 0s;
 }
 input{
     margin-top: 40px;
-    border: 2px solid #245280 ;
+    border: 2px solid #24803b ;
     font-family: 'work sans', sans-serif;
     font-weight: bold;
     font-size: 18px;

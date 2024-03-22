@@ -1,5 +1,5 @@
 body{
-    background: rgb(223, 251, 255);
+    background: rgb(223, 255, 232);
     margin: 0%;
     z-index: 1;
     font-family: 'Work Sans', sans-serif;
@@ -15,25 +15,25 @@ h1{
     position: relative;
 }
 
-.field{
-    background-color: #b1dae7;
-    float: right;
+.field {
+    background-color: #bce7b1;
     width: 40%;
-    margin-top: 4%;
-    margin-right: 8%;
     min-width: auto;
-    padding: 0 auto;
+    padding: 20px; /* Ajoutez le padding selon vos besoins */
     border-radius: 15px;
     box-shadow: 0px 0px 0.9px rgba(0, 0, 0, 0.183), 0px 0px 2.3px rgba(0, 0, 0, 0.262), 0px 0px 4.6px rgba(0, 0, 0, 0.328), 0px 0px 9.5px rgba(0, 0, 0, 0.407), 0px 0px 26px rgba(0, 0, 0, 0.59);
-
+    
+    /* Ajoutez ces propriétés pour centrer le bloc */
+    margin: 5% auto; /* 4% de marge en haut et en bas, et auto pour les côtés gauche et droit */
 }
+
 
 .form{
     width: fit-content;
     margin: 0 auto;
 }
 input{
-    border: 2px solid #245280 ;
+    border: 2px solid #24802a ;
     font-family: 'work sans', sans-serif;
     font-weight: bold;
     font-size: 18px;

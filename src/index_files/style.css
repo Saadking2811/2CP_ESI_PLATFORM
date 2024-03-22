@@ -1,5 +1,5 @@
 body{
-    background: rgb(223, 251, 255);
+    background: rgb(227, 255, 223);
     margin: 0%;
     z-index: 1;
     font-family: 'Work Sans', sans-serif;
@@ -12,23 +12,23 @@ body{
     font-family: 'Berkshire Swash', cursive;
     font-size: 100px;
     text-align: center;
-    color: #b1dae7;
+    color: #b1e7b5;
     margin: 20px;
-    -webkit-text-stroke: #245280 1px;
+    -webkit-text-stroke: #24802d 1px;
 }
 
 hr{
     width: 80%;
     height: 1px;
-    background-color: #245280;
-    border: 5px solid #245280;
+    background-color: #2a8024;
+    border: 5px solid #2a8024;
     border-radius:5px;
     margin-bottom: 50px;
 }
 
 
 #made{
-    background-color: #b1dae7;
+    background-color: #b1e7b5;
     font-size: 13px;
     margin: 0;
     padding-top: 5px;
@@ -76,7 +76,7 @@ hr{
 }
 
 .about{
-    background-color: #b1dae7;
+    background-color: #b2e7b1;
     width: 100%;
     padding: 10px 50px;
     margin-bottom: 0;
@@ -99,7 +99,7 @@ hr{
 
     #welcome{
     font-size: 50px;
-    -webkit-text-stroke: #245280 0.5px;
+    -webkit-text-stroke: #248029 0.5px;
     margin: 10px;
     }
     

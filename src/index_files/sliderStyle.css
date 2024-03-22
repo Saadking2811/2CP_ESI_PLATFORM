@@ -10,8 +10,8 @@
 
         .textSlide{
             padding: 20px;
-            background-color: #b1dae7;
-            border: thin #b1dae7;
+            background-color: #b1e7bd;
+            border: thin #b2e7b1;
             border-radius: 10px;
             margin: 5%;
             margin: 6px;
@@ -46,7 +46,7 @@
                 display: block;
             }
             .owl-stage-outer{
-                background-color: #b1dae7;
+                background-color: #b1e7b8;
                 border-radius: 10px;
                 padding-top: 10px;
             }
